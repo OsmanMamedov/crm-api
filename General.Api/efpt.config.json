@@ -1,0 +1,46 @@
+﻿{
+   "ContextClassName": "GeneralContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "General.Api",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Action]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ActionAssign]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ActionCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ActionDetail]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ActionMedia]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[User]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}

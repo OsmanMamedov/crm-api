@@ -1,0 +1,54 @@
+﻿{
+   "ContextClassName": "GeneralContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "General.Entities",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Action]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ActionCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Asset]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Asset_Type]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Role]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[User]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[User_Role]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[User_Type]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}
